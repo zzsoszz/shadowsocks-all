@@ -1,0 +1,1 @@
+Moved to [Encryption](https://github.com/clowwindy/shadowsocks/wiki/Encryption).
